@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Tabela campeonato S. R. das Mangabeiras',
-  description: 'Campeonato de S. R. das Mangabeiras',
+  description: 'Futebol Mangabeiras',
 }
 
 export default function RootLayout({
